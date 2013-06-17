@@ -1,4 +1,14 @@
 /* myfirst.css by Ariel Azoff */
 body {
 	background-color: #00cbdf;
+	padding: 100px;
+	color: #3f5052;
 }
+
+a{
+	color: #cf813b;
+	text-decoration: none;
+
+}
+
+a:hover { color: #d45611;}
