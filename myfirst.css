@@ -1,9 +1,10 @@
 /* myfirst.css by Ariel Azoff */
 body {
 	background-image:url('http://www.arielazoff.com/wp-content/uploads/2013/05/Portfolio-Background4.png');
-	margin-left: 150px; margin-top:20px; font-family: 'Average Sans', sans-serif;
+	margin-left: auto; margin-right:auto; margin-top:20px; font-family: 'Average Sans', sans-serif;
 	font-weight: 400;
 }
+
 
 #pic {margin-left: 300}
 
